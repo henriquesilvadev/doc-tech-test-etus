@@ -27,6 +27,6 @@ Estou recebendo dados de diversas campanhas feitas utilizando o Facebook para a
 ativação de um aplicativo. Precisamos otimizar as conversões em função do valor gasto.
 Analisando os dados do arquivo [teste_data_scientist_facebook-ad-campaign.zip](teste_data_scientist_facebook-ad-campaign.zip), devo testar modelos/hipóteses e apresentar os resultados de forma coesa.
 
-**Opcional**: Devo conseguir provisionar o ambiente inteiro da análise em em cloud (GCP ou AWS).
+**Opcional**: Devo conseguir provisionar o ambiente inteiro da análise em cloud (GCP ou AWS).
 
 [Story Board](https://async-team.monday.com/boards/545214918)
